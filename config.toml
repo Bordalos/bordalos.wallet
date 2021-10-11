@@ -1,7 +1,7 @@
 title = 'Bordalos on Web3'
 baseURL = 'http://bordalos.com/'
 languageCode = 'en-us'
-theme = 'Ananke'
+theme = "ananke"
 
 [params]
   author = "Bordalos"
