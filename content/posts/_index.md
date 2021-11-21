@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "Posts"
 featured_image: '/images/web3-image.jpg'
-description: "the journey begins here."
+description: "the journey begins here"
 ---
 
-Welcome to my blog with some of my work in progress. 
+# Welcome to my Web3.0 blog
