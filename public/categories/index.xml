@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bordalos on the Web 3.0</title>
-    <link>http://bordalos.com/categories/</link>
+    <link>http://www.bordalos.com/categories/</link>
     <description>This is my website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://bordalos.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.bordalos.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

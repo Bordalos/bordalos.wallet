@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bordalos on the Web 3.0</title>
-    <link>http://bordalos.com/</link>
+    <link>http://www.bordalos.com/</link>
     <description>This is my website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Nov 2021 22:11:15 +0000</lastBuildDate><atom:link href="http://bordalos.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Nov 2021 22:11:15 +0000</lastBuildDate><atom:link href="http://www.bordalos.com/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Building Site Web3</title>
-        <link>http://bordalos.com/posts/building-site-web3/</link>
+        <link>http://www.bordalos.com/posts/building-site-web3/</link>
         <pubDate>Sun, 21 Nov 2021 22:11:15 +0000</pubDate>
         
-        <guid>http://bordalos.com/posts/building-site-web3/</guid>
+        <guid>http://www.bordalos.com/posts/building-site-web3/</guid>
         <description>Building a static website on Web3.0 When I decided to build this website I spend a good couple of hours learning the basics how to build, deploy and host a website for free.
 Here is how I did it.
  Site Generator : Hugo Code editor: Atom Version control: Github Hosting: fleek or ipfs link Backup: IPFS or ipfs link Browser: Brave  </description>
@@ -20,10 +20,10 @@ Here is how I did it.
     
       <item>
         <title>We are now entering the Web3.0 world</title>
-        <link>http://bordalos.com/posts/my-first-post/</link>
+        <link>http://www.bordalos.com/posts/my-first-post/</link>
         <pubDate>Wed, 06 Oct 2021 00:24:08 +0100</pubDate>
         
-        <guid>http://bordalos.com/posts/my-first-post/</guid>
+        <guid>http://www.bordalos.com/posts/my-first-post/</guid>
         <description>This blog is my first attempt to be part of the new Web3.0. The goal is to educate and learn more about technology and crypto&amp;rsquo;s world.
 The main topics i will focus are:
  WEB3.0 I will try to answer question like:
@@ -32,10 +32,10 @@ The main topics i will focus are:
     
       <item>
         <title></title>
-        <link>http://bordalos.com/about/</link>
+        <link>http://www.bordalos.com/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://bordalos.com/about/</guid>
+        <guid>http://www.bordalos.com/about/</guid>
         <description>This is the landing page of my blog</description>
       </item>
     
