@@ -1,4 +1,4 @@
-baseURL = 'http://bordalos.com/'
+baseURL = 'http://www.bordalos.com/'
 
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
@@ -48,7 +48,7 @@ Paginate = 5
   # Each value will become a paragraph
   # Keep it as an array
   footerText = [ "Generated with [Hugo](https://gohugo.io) using the [Color Your World](https://gitlab.com/rmaguiar/hugo-theme-color-your-world) theme." ]
-    
+
   # Site cover, for Open Graph, Twitter Cards and Schema.org
   # It will be used if the current page doesn't have an image cover
   # File will be picked from the "assets" directory
