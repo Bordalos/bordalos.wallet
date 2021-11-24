@@ -21,14 +21,6 @@ theme = "color-your-world"
   weight = -110
 
 
-Paginate = 5
-
-[Author]
-  name ="Bordalos"
-  bio = "Hi folks."
-  avatar = ""
-
-
 [params]
   favicon = ""
   site_logo = ""
