@@ -1,4 +1,4 @@
-baseURL = 'http://www.bordalos.com/'
+baseURL = 'https://www.bordalos.com/'
 
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
